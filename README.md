@@ -1,6 +1,7 @@
 ## HIDAPI library for Windows, Linux, FreeBSD and macOS
 subtree test
 subtree test 2 2
+subtree test 2 3
 
 | CI instance          | Status |
 |----------------------|--------|
